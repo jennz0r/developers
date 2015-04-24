@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+footer {
+  display: block;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+.mochimachine {
+  display: block;
+  text-align: right
+}
+
+.mochimachine a {
+  color: DeepPink;
+  font-weight: 600;
+}
+
+.meowmania {
+  display: block;
+  font-size: 0.75em;
+  text-align: right;
+}
+
+.meowmania a {
+  color: black;
+  text-decoration: none;
+}
