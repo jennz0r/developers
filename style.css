@@ -29,3 +29,51 @@ footer {
   color: black;
   text-decoration: none;
 }
+
+#preload-01 {
+  background: url(img/ballmer/png/ballmer-01.png) no-repeat -9999px -9999px;
+}
+
+#preload-02 {
+  background: url(img/ballmer/png/ballmer-02.png) no-repeat -9999px -9999px;
+}
+
+#preload-03 {
+  background: url(img/ballmer/png/ballmer-03.png) no-repeat -9999px -9999px;
+}
+
+#preload-04 {
+  background: url(img/ballmer/png/ballmer-04.png) no-repeat -9999px -9999px;
+}
+
+#preload-05 {
+  background: url(img/ballmer/png/ballmer-05.png) no-repeat -9999px -9999px;
+}
+
+#preload-06 {
+  background: url(img/ballmer/png/ballmer-06.png) no-repeat -9999px -9999px;
+}
+
+#preload-07 {
+  background: url(img/ballmer/png/ballmer-07.png) no-repeat -9999px -9999px;
+}
+
+#preload-08 {
+  background: url(img/ballmer/png/ballmer-08.png) no-repeat -9999px -9999px;
+}
+
+#preload-09 {
+  background: url(img/ballmer/png/ballmer-09.png) no-repeat -9999px -9999px;
+}
+
+#preload-10 {
+  background: url(img/ballmer/png/ballmer-10.png) no-repeat -9999px -9999px;
+}
+
+#preload-11 {
+  background: url(img/ballmer/png/ballmer-11.png) no-repeat -9999px -9999px;
+}
+
+#preload-12 {
+  background: url(img/ballmer/png/ballmer-12.png) no-repeat -9999px -9999px;
+}
