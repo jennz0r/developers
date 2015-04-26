@@ -1,5 +1,8 @@
 body {
+  height: 100%;
+  margin: 0;
   font-family: sans-serif;
+  cursor: pointer;
 }
 
 footer {
@@ -7,6 +10,12 @@ footer {
   position: absolute;
   bottom: 5px;
   right: 5px;
+  z-index: 10;
+}
+
+img {
+  width: 150px;
+  height: 150px;
 }
 
 .mochimachine {
@@ -28,6 +37,17 @@ footer {
 .meowmania a {
   color: black;
   text-decoration: none;
+}
+
+@media only screen and (min-width : 480px) {
+  footer {
+    padding: 40px 0 0 40px;
+  }
+
+  img {
+    width: 250px;
+    height: 250px;
+  }
 }
 
 #preload-01 {
@@ -76,4 +96,16 @@ footer {
 
 #preload-12 {
   background: url(img/ballmer/png/ballmer-12.png) no-repeat -9999px -9999px;
+}
+
+#preload-13 {
+  background: url(img/ballmer/png/ballmer-13.png) no-repeat -9999px -9999px;
+}
+
+#preload-14 {
+  background: url(img/ballmer/png/ballmer-14.png) no-repeat -9999px -9999px;
+}
+
+#preload-15 {
+  background: url(img/ballmer/png/ballmer-15.png) no-repeat -9999px -9999px;
 }
